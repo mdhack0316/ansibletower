@@ -1,0 +1,5 @@
+---
+- hosts: main
+  tasks: 
+  - debug: 
+     msg: successfully Running
