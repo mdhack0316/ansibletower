@@ -1,4 +1,4 @@
 ---
 - hosts: all
-  tasks: 
-  - shell: date
+  tasks:
+  - command: sleep 30 
